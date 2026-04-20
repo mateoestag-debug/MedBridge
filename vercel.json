@@ -1,0 +1,6 @@
+{
+    "rewrites": [
+          { "source": "/", "destination": "/medbridge 3/index.html" },
+          { "source": "/(.*)", "destination": "/medbridge 3/$1" }
+    ]
+}
